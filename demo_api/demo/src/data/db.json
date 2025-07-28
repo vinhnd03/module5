@@ -1,0 +1,150 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Vinh",
+      "email": "vinh222@gmail.com",
+      "classCG": {
+        "id": 2,
+        "name": "C02"
+      },
+      "gender": "true",
+      "subjects": [
+        "JS",
+        "ReactJS"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Khanh",
+      "email": "khanh@gmail.com",
+      "classCG": {
+        "id": 2,
+        "name": "C02"
+      },
+      "gender": "true"
+    },
+    {
+      "id": 3,
+      "name": "Duy",
+      "email": "duy@gmail.com",
+      "classCG": {
+        "id": 2,
+        "name": "C02"
+      },
+      "gender": "true"
+    },
+    {
+      "id": 4,
+      "name": "Chien",
+      "email": "chien@gmail.com",
+      "classCG": {
+        "id": 1,
+        "name": "C01"
+      },
+      "gender": "true"
+    },
+    {
+      "id": 5,
+      "name": "Huy",
+      "email": "huy@gmail.com",
+      "classCG": {
+        "id": 2,
+        "name": "C02"
+      },
+      "gender": "true",
+      "subjects": [
+        "Spring Boot"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Đức Vĩnh Nguyễn",
+      "email": "vinhnd@gmail.com",
+      "class": {},
+      "classCG": {
+        "id": 2,
+        "name": "C02"
+      },
+      "gender": "false",
+      "subjects": [
+        "Java"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Le Van Tam",
+      "email": "admin@gmail.com",
+      "classCG": {
+        "id": 1,
+        "name": "C01"
+      },
+      "gender": "true",
+      "subjects": [
+        "ReactJS",
+        "JSP-Servlet"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Le Van Tam",
+      "email": "admin@gmail.com",
+      "gender": "true",
+      "classCG": {
+        "id": 2,
+        "name": "C02"
+      },
+      "subjects": [
+        "JS",
+        "ReactJS",
+        "JSP-Servlet"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Đức Vĩnh Nguyễn",
+      "email": "admin2222@gmail.com",
+      "gender": "false",
+      "subjects": [
+        "JSP-Servlet",
+        "JS"
+      ],
+      "classCG": {
+        "id": 1,
+        "name": "C01"
+      }
+    }
+  ],
+  "classes": [
+    {
+      "id": 1,
+      "name": "C01"
+    },
+    {
+      "id": 2,
+      "name": "C02"
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "name": "Java"
+    },
+    {
+      "id": 2,
+      "name": "JS"
+    },
+    {
+      "id": 3,
+      "name": "ReactJS"
+    },
+    {
+      "id": 4,
+      "name": "JSP-Servlet"
+    },
+    {
+      "id": 5,
+      "name": "Spring Boot"
+    }
+  ]
+}
