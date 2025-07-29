@@ -1,0 +1,133 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Pham Ngoc Khanh",
+      "age": 18,
+      "classCG": {
+        "id": 1,
+        "name": "C0225G1"
+      },
+      "dateOfBirth": "2025-07-22",
+      "gender": false,
+      "address": "Quảng Bình",
+      "subjects": [
+        "ReactJS",
+        "Spring Boot"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Nguyen Duc Vinh",
+      "age": 22,
+      "classCG": {
+        "id": 1,
+        "name": "C0225G1"
+      },
+      "dateOfBirth": "2025-07-08",
+      "gender": true,
+      "address": "Quảng Bình",
+      "subjects": [
+        "Java Web",
+        "Java Core",
+        "Spring Boot",
+        "JavaScript",
+        "ReactJS"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Nguyen Van Binh",
+      "age": 23,
+      "classCG": {
+        "id": 1,
+        "name": "C0225G1"
+      },
+      "dateOfBirth": "2025-07-16",
+      "gender": true,
+      "address": "Đà Nẵng",
+      "subjects": [
+        "ReactJS",
+        "Java Core"
+      ]
+    },
+    {
+      "name": "Vĩnh",
+      "age": 21,
+      "gender": true,
+      "classCG": {
+        "id": 1,
+        "name": "C0225G1"
+      },
+      "address": "295 Đường Nguyễn Tất Thành Quận Hải Châu",
+      "dateOfBirth": "2025-07-01",
+      "subjects": [
+        "JavaScript",
+        "Java Core",
+        "ReactJS",
+        "Java Web",
+        "Spring Boot"
+      ],
+      "id": 4
+    },
+    {
+      "name": "KhanhCUTE",
+      "age": 26,
+      "gender": false,
+      "classCG": {
+        "id": 2,
+        "name": "C0325G1"
+      },
+      "address": "295 Đường Nguyễn Tất Thành Quận Hải Châu",
+      "dateOfBirth": "2025-07-01",
+      "subjects": [
+        "JavaScript",
+        "Java Core",
+        "Java Web"
+      ],
+      "id": 5
+    }
+  ],
+  "classCGs": [
+    {
+      "id": 1,
+      "name": "C0225G1"
+    },
+    {
+      "id": 2,
+      "name": "C0325G1"
+    },
+    {
+      "id": 3,
+      "name": "C0425G1"
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "name": "JavaScript"
+    },
+    {
+      "id": 2,
+      "name": "Java Core"
+    },
+    {
+      "id": 3,
+      "name": "Java Web"
+    },
+    {
+      "id": 4,
+      "name": "Spring Boot"
+    },
+    {
+      "id": 5,
+      "name": "ReactJS"
+    }
+  ],
+  "accounts": [
+    {
+      "username": "admin",
+      "password": "123"
+    }
+  ]
+}
